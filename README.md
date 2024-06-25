@@ -30,4 +30,4 @@
 
   <p>Este projeto foi desenvolvido como parte de estudos em programação e lógica de jogos. Sinta-se à vontade para explorar, modificar e aprender com o código fonte!</p>
 <p>Confira o Deploy desse projeto</p>
-    <p>Confira o <a href="https://gerador-de-numeros-pseudoaleatorios.vercel.app/">gerador de números pseudoaleatórios</a>.</p>
+    <p>Confira o <a href="https://jogo-pingpong-murex.vercel.app/">jogo ping pong</a>.</p>
